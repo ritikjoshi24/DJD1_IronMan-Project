@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - enemyCrate
+  - DeathArea
+  - runUpgrade
+  - fireUpgrade
+  - flyUpgrade
+  - upgrade
+  - enemy1
+  - Ground
   layers:
   - Default
   - TransparentFX
@@ -14,8 +22,8 @@ TagManager:
   - 
   - 
   - Ground
-  - 1
-  - 2
+  - Wall
+  - 
   - 
   - 
   - 
